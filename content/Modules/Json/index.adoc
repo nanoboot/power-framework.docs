@@ -17,3 +17,7 @@ Todo:
 Handle escape sequences
 Accessing by dot strings
 ----
+
+link:minimal.json[minimal.json]
+
+link:pretty.json[pretty.json]
