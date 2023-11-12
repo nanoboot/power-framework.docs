@@ -1,0 +1,19 @@
+= Utils
+
+////
+weight=800
+////
+
+////
++++
+title = "About"
+date = "2023-11-12"
+menu = "main"
++++
+////
+
+----
+private boolean isInRange(final int value, final int min, final int max) {
+return ((value >= min) && (value <= max));
+}
+----

@@ -1,0 +1,16 @@
+= Power Framework - Documentation
+
+////
+weight=1000
+////
+
+////
++++
+title = "About"
+date = "2023-11-121"
+menu = "main"
++++
+////
+
+
+*Power Framework* is a multipurpose Java library.
